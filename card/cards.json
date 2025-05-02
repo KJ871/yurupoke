@@ -1,0 +1,1023 @@
+{
+    "ビードル": {
+        "name": "ビードル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l754.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l835.png"
+        ]
+    },
+    "コクーン": {
+        "name": "コクーン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l755.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l836.png"
+        ]
+    },
+    "スピアー": {
+        "name": "スピアー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l731.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l817.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l842.png"
+        ]
+    },
+    "カイロス": {
+        "name": "カイロス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l741.png"
+        ]
+    },
+    "ニャハオ": {
+        "name": "ニャハオ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l738.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l746.png"
+        ]
+    },
+    "ニャローテ": {
+        "name": "ニャローテ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l756.png"
+        ]
+    },
+    "マスカーニャ": {
+        "name": "マスカーニャ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l757.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l812.png"
+        ]
+    },
+    "ヒトカゲ": {
+        "name": "ヒトカゲ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l758.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l837.png"
+        ]
+    },
+    "リザード": {
+        "name": "リザード",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l759.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l838.png"
+        ]
+    },
+    "リザードン": {
+        "name": "リザードン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l725.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l818.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l733.png"
+        ]
+    },
+    "ブーバ": {
+        "name": "ブーバ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l760.png"
+        ]
+    },
+    "ブーバーン": {
+        "name": "ブーバーン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l761.png"
+        ]
+    },
+    "パルデアケンタロス": {
+        "name": "パルデアケンタロス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l762.png"
+        ]
+    },
+    "メノクラゲ": {
+        "name": "メノクラゲ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l763.png"
+        ]
+    },
+    "ドククラゲ": {
+        "name": "ドククラゲ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l764.png"
+        ]
+    },
+    "ブイゼル": {
+        "name": "ブイゼル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l765.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l813.png"
+        ]
+    },
+    "フローゼル": {
+        "name": "フローゼル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l766.png"
+        ]
+    },
+    "ウミディグダ": {
+        "name": "ウミディグダ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l767.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l739.png"
+        ]
+    },
+    "ウミトリオ": {
+        "name": "ウミトリオ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l728.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l819.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l843.png"
+        ]
+    },
+    "ヘイラッシャ": {
+        "name": "ヘイラッシャ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l768.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l839.png"
+        ]
+    },
+    "シャリタツ": {
+        "name": "シャリタツ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l769.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l737.png"
+        ]
+    },
+    "ピカチュウ": {
+        "name": "ピカチュウ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l727.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l820.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l830.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l655.png"
+        ]
+    },
+    "ビリリダマ": {
+        "name": "ビリリダマ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l770.png"
+        ]
+    },
+    "マルマイン": {
+        "name": "マルマイン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l771.png"
+        ]
+    },
+    "パチリス": {
+        "name": "パチリス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l735.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l736.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l752.png"
+        ]
+    },
+    "パモ": {
+        "name": "パモ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l772.png"
+        ]
+    },
+    "パモット": {
+        "name": "パモット",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l773.png"
+        ]
+    },
+    "パーモット": {
+        "name": "パーモット",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l774.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l748.png"
+        ]
+    },
+    "ケーシィ": {
+        "name": "ケーシィ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l775.png"
+        ]
+    },
+    "ユンゲラー": {
+        "name": "ユンゲラー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l776.png"
+        ]
+    },
+    "フーディン": {
+        "name": "フーディン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l777.png"
+        ]
+    },
+    "バリヤード": {
+        "name": "バリヤード",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l778.png"
+        ]
+    },
+    "フワンテ": {
+        "name": "フワンテ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l779.png"
+        ]
+    },
+    "フワライド": {
+        "name": "フワライド",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l780.png"
+        ]
+    },
+    "ギラティナ": {
+        "name": "ギラティナ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l726.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l821.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l834.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l684.png"
+        ]
+    },
+    "コレクレー": {
+        "name": "コレクレー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l781.png"
+        ]
+    },
+    "ワンリキー": {
+        "name": "ワンリキー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l782.png"
+        ]
+    },
+    "ゴーリキー": {
+        "name": "ゴーリキー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l783.png"
+        ]
+    },
+    "カイリキー": {
+        "name": "カイリキー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l784.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l749.png"
+        ]
+    },
+    "サワムラー": {
+        "name": "サワムラー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l785.png"
+        ]
+    },
+    "エビワラー": {
+        "name": "エビワラー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l786.png"
+        ]
+    },
+    "リオル": {
+        "name": "リオル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l787.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l840.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l753.png"
+        ]
+    },
+    "ルカリオ": {
+        "name": "ルカリオ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l729.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l822.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l734.png"
+        ]
+    },
+    "カラミンゴ": {
+        "name": "カラミンゴ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l788.png"
+        ]
+    },
+    "アーボ": {
+        "name": "アーボ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l789.png"
+        ]
+    },
+    "アーボック": {
+        "name": "アーボック",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l790.png"
+        ]
+    },
+    "パルデアウパー": {
+        "name": "パルデアウパー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l791.png"
+        ]
+    },
+    "パルデアドオー": {
+        "name": "パルデアドオー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l730.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l823.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l831.png"
+        ]
+    },
+    "ミカルゲ": {
+        "name": "ミカルゲ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l792.png"
+        ]
+    },
+    "シルシュルー": {
+        "name": "シルシュルー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l793.png"
+        ]
+    },
+    "タギングル": {
+        "name": "タギングル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l794.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l814.png"
+        ]
+    },
+    "カヌチャン": {
+        "name": "カヌチャン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l795.png"
+        ]
+    },
+    "ナカヌチャン": {
+        "name": "ナカヌチャン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l796.png"
+        ]
+    },
+    "デカヌチャン": {
+        "name": "デカヌチャン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l724.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l824.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l832.png"
+        ]
+    },
+    "ブロロン": {
+        "name": "ブロロン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l797.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l740.png"
+        ]
+    },
+    "ブロロローム": {
+        "name": "ブロロローム",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l798.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l841.png"
+        ]
+    },
+    "サーフゴー": {
+        "name": "サーフゴー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l799.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l815.png"
+        ]
+    },
+    "コラッタ": {
+        "name": "コラッタ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l800.png"
+        ]
+    },
+    "ラッタ": {
+        "name": "ラッタ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l801.png"
+        ]
+    },
+    "プリン": {
+        "name": "プリン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l802.png"
+        ]
+    },
+    "プクリン": {
+        "name": "プクリン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l803.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l816.png"
+        ]
+    },
+    "ベロリンガ": {
+        "name": "ベロリンガ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l804.png"
+        ]
+    },
+    "ベロベルト": {
+        "name": "ベロベルト",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l805.png"
+        ]
+    },
+    "ビッパ": {
+        "name": "ビッパ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l806.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l751.png"
+        ]
+    },
+    "ビーダル": {
+        "name": "ビーダル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l732.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l825.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l833.png"
+        ]
+    },
+    "ミミロル": {
+        "name": "ミミロル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l807.png"
+        ]
+    },
+    "ミミロップ": {
+        "name": "ミミロップ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l808.png"
+        ]
+    },
+    "モトトカゲ": {
+        "name": "モトトカゲ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l809.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l745.png"
+        ]
+    },
+    "ナンジャモ": {
+        "name": "ナンジャモ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l743.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l826.png"
+        ]
+    },
+    "ポケモンセンターのお姉さん": {
+        "name": "ポケモンセンターのお姉さん",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l810.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l827.png"
+        ]
+    },
+    "レッド": {
+        "name": "レッド",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l742.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l828.png"
+        ]
+    },
+    "ロケット団のしたっぱ": {
+        "name": "ロケット団のしたっぱ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l811.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l829.png"
+        ]
+    },
+    "ヘラクロス": {
+        "name": "ヘラクロス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l636.png"
+        ]
+    },
+    "ミノムッチ": {
+        "name": "ミノムッチ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l637.png"
+        ]
+    },
+    "ガーメイル": {
+        "name": "ガーメイル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l638.png"
+        ]
+    },
+    "ミツハニー": {
+        "name": "ミツハニー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l639.png"
+        ]
+    },
+    "ビークイン": {
+        "name": "ビークイン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l640.png"
+        ]
+    },
+    "チェリンボ": {
+        "name": "チェリンボ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l641.png"
+        ]
+    },
+    "チェリム": {
+        "name": "チェリム",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l642.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l643.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l717.png"
+        ]
+    },
+    "マスキッパ": {
+        "name": "マスキッパ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l624.png"
+        ]
+    },
+    "リーフィア": {
+        "name": "リーフィア",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l622.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l701.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l710.png"
+        ]
+    },
+    "デルビル": {
+        "name": "デルビル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l644.png"
+        ]
+    },
+    "ヘルガー": {
+        "name": "ヘルガー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l645.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l695.png"
+        ]
+    },
+    "ヒードラン": {
+        "name": "ヒードラン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l625.png"
+        ]
+    },
+    "マリル": {
+        "name": "マリル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l646.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l696.png"
+        ]
+    },
+    "マリルリ": {
+        "name": "マリルリ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l647.png"
+        ]
+    },
+    "ドジチョッチ": {
+        "name": "ドジチョッチ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l648.png"
+        ]
+    },
+    "ナマズン": {
+        "name": "ナマズン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l649.png"
+        ]
+    },
+    "ユキワラシ": {
+        "name": "ユキワラシ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l650.png"
+        ]
+    },
+    "ユキメノコ": {
+        "name": "ユキメノコ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l651.png"
+        ]
+    },
+    "ユキカブリ": {
+        "name": "ユキカブリ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l652.png"
+        ]
+    },
+    "ユキノオー": {
+        "name": "ユキノオー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l626.png"
+        ]
+    },
+    "グレイシア": {
+        "name": "グレイシア",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l702.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l623.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l711.png"
+        ]
+    },
+    "オリジンパルキア": {
+        "name": "オリジンパルキア",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l653.png"
+        ]
+    },
+    "フィオネ": {
+        "name": "フィオネ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l654.png"
+        ]
+    },
+    "ライチュウ": {
+        "name": "ライチュウ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l627.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l718.png"
+        ]
+    },
+    "ラクライ": {
+        "name": "ラクライ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l656.png"
+        ]
+    },
+    "ライボルト": {
+        "name": "ライボルト",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l657.png"
+        ]
+    },
+    "ピッピ": {
+        "name": "ピッピ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l658.png"
+        ]
+    },
+    "ピクシー": {
+        "name": "ピクシー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l659.png"
+        ]
+    },
+    "ゴース": {
+        "name": "ゴース",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l660.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l1078.png"
+        ]
+    },
+    "ゴースト": {
+        "name": "ゴースト",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l661.png"
+        ]
+    },
+    "ゲンガー": {
+        "name": "ゲンガー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l662.png"
+        ]
+    },
+    "アンノーン": {
+        "name": "アンノーン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l635.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l697.png"
+        ]
+    },
+    "ロトム": {
+        "name": "ロトム",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l628.png"
+        ]
+    },
+    "ウソッキー": {
+        "name": "ウソッキー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l663.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l698.png"
+        ]
+    },
+    "ゴマゾウ": {
+        "name": "ゴマゾウ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l664.png"
+        ]
+    },
+    "ドンファン": {
+        "name": "ドンファン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l665.png"
+        ]
+    },
+    "ヨーギラス": {
+        "name": "ヨーギラス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l666.png"
+        ]
+    },
+    "サナギラス": {
+        "name": "サナギラス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l667.png"
+        ]
+    },
+    "バンギラス": {
+        "name": "バンギラス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l629.png"
+        ]
+    },
+    "ノズパス": {
+        "name": "ノズパス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l668.png"
+        ]
+    },
+    "アサナン": {
+        "name": "アサナン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l669.png"
+        ]
+    },
+    "チャーレム": {
+        "name": "チャーレム",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l670.png"
+        ]
+    },
+    "フカマル": {
+        "name": "フカマル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l671.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l720.png"
+        ]
+    },
+    "ガバイト": {
+        "name": "ガバイト",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l672.png"
+        ]
+    },
+    "ガブリアス": {
+        "name": "ガブリアス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l621.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l703.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l712.png"
+        ]
+    },
+    "ズバット": {
+        "name": "ズバット",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l673.png"
+        ]
+    },
+    "ゴルバット": {
+        "name": "ゴルバット",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l674.png"
+        ]
+    },
+    "クロバット": {
+        "name": "クロバット",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l630.png"
+        ]
+    },
+    "グレッグル": {
+        "name": "グレッグル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l675.png"
+        ]
+    },
+    "ドグロック": {
+        "name": "ドグロック",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l676.png"
+        ]
+    },
+    "コイル": {
+        "name": "コイル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l677.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l699.png"
+        ]
+    },
+    "レアコイル": {
+        "name": "レアコイル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l678.png"
+        ]
+    },
+    "ジバコイル": {
+        "name": "ジバコイル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l631.png"
+        ]
+    },
+    "クチート": {
+        "name": "クチート",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l679.png"
+        ]
+    },
+    "ダイノーズ": {
+        "name": "ダイノーズ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l680.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l704.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l713.png"
+        ]
+    },
+    "ドーミラー": {
+        "name": "ドーミラー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l681.png"
+        ]
+    },
+    "ドータクン": {
+        "name": "ドータクン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l682.png"
+        ]
+    },
+    "オリジンディアルガ": {
+        "name": "オリジンディアルガ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l683.png"
+        ]
+    },
+    "イーブイ": {
+        "name": "イーブイ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l685.png"
+        ]
+    },
+    "カビゴン": {
+        "name": "カビゴン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l686.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l723.png"
+        ]
+    },
+    "ホーホー": {
+        "name": "ホーホー",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l687.png"
+        ]
+    },
+    "ヨルノズク": {
+        "name": "ヨルノズク",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l688.png"
+        ]
+    },
+    "ムックル": {
+        "name": "ムックル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l689.png"
+        ]
+    },
+    "ムクバード": {
+        "name": "ムクバード",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l690.png"
+        ]
+    },
+    "ムクホーク": {
+        "name": "ムクホーク",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l691.png"
+        ]
+    },
+    "シェイミ": {
+        "name": "シェイミ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l632.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l700.png"
+        ]
+    },
+    "アルセウス": {
+        "name": "アルセウス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l692.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l620.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l705.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l714.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l715.png"
+        ]
+    },
+    "カイ": {
+        "name": "カイ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l634.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l706.png"
+        ]
+    },
+    "カンナギタウンの長老": {
+        "name": "カンナギタウンの長老",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l693.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l707.png"
+        ]
+    },
+    "ジュン": {
+        "name": "ジュン",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l694.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l708.png"
+        ]
+    },
+    "セキ": {
+        "name": "セキ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l633.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l709.png"
+        ]
+    },
+    "ナゾノクサ": {
+        "name": "ナゾノクサ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l426.png"
+        ]
+    },
+    "クサイハナ": {
+        "name": "クサイハナ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l427.png"
+        ]
+    },
+    "キレイハナ": {
+        "name": "キレイハナ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l428.png"
+        ]
+    },
+    "モンジャラ": {
+        "name": "モンジャラ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l429.png"
+        ]
+    },
+    "モジャンボ": {
+        "name": "モジャンボ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l430.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l570.png"
+        ]
+    },
+    "ヤンヤンマ": {
+        "name": "ヤンヤンマ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l431.png"
+        ]
+    },
+    "メガヤンマ": {
+        "name": "メガヤンマ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l432.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l590.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l605.png"
+        ]
+    },
+    "ロゼリア": {
+        "name": "ロゼリア",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l433.png"
+        ]
+    },
+    "ロズレイド": {
+        "name": "ロズレイド",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l434.png"
+        ]
+    },
+    "ナエトル": {
+        "name": "ナエトル",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l407.png",
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l418.png"
+        ]
+    },
+    "ハヤシガメ": {
+        "name": "ハヤシガメ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l435.png"
+        ]
+    },
+    "ドダイドス": {
+        "name": "ドダイドス",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l436.png"
+        ]
+    },
+    "コロボーシ": {
+        "name": "コロボーシ",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l437.png"
+        ]
+    },
+    "コロトック": {
+        "name": "コロトック",
+        "types": [
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l438.png"
+        ]
+    }
+}
