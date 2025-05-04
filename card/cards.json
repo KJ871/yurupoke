@@ -991,7 +991,6 @@
             "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l383.png",
             "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l21.png",
             "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l223.png",
-            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l224.png",
             "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l224.png"
         ]
     },
@@ -1657,8 +1656,9 @@
     },
     "ポリゴンZ": {
         "name": "ポリゴン",
-        "types": 
+        "types": [
             "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l544.png"
+        ]
     },
     "エイパム": {
         "name": "エイパム",
@@ -2048,8 +2048,7 @@
     "ゴローニャ": {
         "name": "ゴローニャ",
         "types": [
-            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l361.png",
-            ""
+            "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/l361.png"
         ]
     },
     "プテラ": {
